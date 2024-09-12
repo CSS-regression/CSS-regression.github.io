@@ -25,5 +25,9 @@ output:
   
 `r  shiny::icon("scroll")` <a href="regression_intro_2024.pdf" title=>Презентация-введение</a> 
 
+`r  shiny::icon("scroll")` <a href="OLS_notes.pdf" title=>МНК-оценки: случай парной линейной регрессии</a> 
+
 `r  shiny::icon("scroll")` <a href="reg_seminar1_2024.pdf" title=>Семинар 1</a> 
+
+
  
