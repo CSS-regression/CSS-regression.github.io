@@ -31,5 +31,14 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_hw1_2024.pdf" title=>Домашнее задание 1</a> 
 
+## Занятие 2
+ 
+Тема: множественная линейная регрессия: спецификация, выведение формулы для получения оценок коэффициентов, допущения относительно ошибок
+  
+`r  shiny::icon("scroll")` <a href="reg_seminar2_2024.pdf" title=>Семинар 2</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_hw2_2024.pdf" title=>Домашнее задание 2</a> 
+
+
 
  
