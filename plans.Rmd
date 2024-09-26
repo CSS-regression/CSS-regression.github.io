@@ -39,6 +39,20 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_hw2_2024.pdf" title=>Домашнее задание 2</a> 
 
-
-
+## Занятие 3
  
+Тема: множественная линейная регрессия: спецификация
+
+`r  shiny::icon("scroll")` <a href="lecture_notes.pdf" title=>Выбор контрольных переменных</a> 
+
+`r  shiny::icon("scroll")` <a href="interactions_presentation.pdf" title=>Презентация: переменные взаимодействия</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar3_2024.pdf" title=>Семинар 3</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинар 3: решение</a> 
+
+Домашнее задание: 
+
+`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/XhNnotShTyC8dw" title=> Brambor et al.</a>
+ 
+`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
