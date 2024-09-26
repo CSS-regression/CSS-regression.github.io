@@ -47,7 +47,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="interactions_presentation.pdf" title=>Презентация: переменные взаимодействия</a> 
 
-`r  shiny::icon("scroll")` <a href="reg_seminar3_2024.pdf" title=>Семинар 3</a> 
+`r  shiny::icon("scroll")` <a href="reg_seminar3.pdf" title=>Семинар 3</a> 
 
 `r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинар 3: решение</a> 
 
