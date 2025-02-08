@@ -41,6 +41,10 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_hw_solution.pdf" title=>Решение задач из ДЗ</a> 
 
+`r  shiny::icon("desktop")` <a href="reg_lab1.ipynb" title=> Практикум </a>
+
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=> Данные </a>
+
 ## Занятие 3
  
 Тема: множественная линейная регрессия: спецификация
@@ -52,6 +56,8 @@ output:
 `r  shiny::icon("scroll")` <a href="reg_seminar3.pdf" title=>Семинар 3</a> 
 
 `r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинар 3: решение</a> 
+
+`r  shiny::icon("desktop")` <a href="reg_lab2.ipynb" title=> Практикум </a>
 
 Домашнее задание: 
 
@@ -69,9 +75,9 @@ output:
  
 Тема: мультиколлинеарность (продолжение), гребневая регрессия
 
-`r  shiny::icon("desktop")` <a href="lab3_1.ipynb" title=> Практикум (часть 1) </a>
+`r  shiny::icon("desktop")` <a href="reg_lab3_1.ipynb" title=> Практикум (часть 1) </a>
 
-`r  shiny::icon("desktop")` <a href="lab3_2.ipynb" title=> Практикум (часть 2) </a>
+`r  shiny::icon("desktop")` <a href="reg_lab3_2.ipynb" title=> Практикум (часть 2) </a>
 
 `r  shiny::icon("desktop")` <a href="lab3_2.dta" title=> Данные </a>
 
