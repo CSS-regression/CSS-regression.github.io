@@ -65,6 +65,30 @@ output:
 
 `r  shiny::icon("readme")` <a href="PCA.pdf" title=> Метод главных компонент </a>
 
+## Занятие 5
+ 
+Тема: мультиколлинеарность (продолжение), гребневая регрессия
+
+`r  shiny::icon("desktop")` <a href="lab3_1.ipynb" title=> Практикум (часть 1) </a>
+
+`r  shiny::icon("desktop")` <a href="lab3_2.ipynb" title=> Практикум (часть 2) </a>
+
+`r  shiny::icon("desktop")` <a href="lab3_2.dta" title=> Данные </a>
+
+## Занятие 6
+ 
+Тема: гетероскедастичность
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar5.pdf" title=> Семинарский лист </a>
+
+## Занятие 7
+ 
+Тема: нетипичные наблюдения
+
+`r  shiny::icon("desktop")` <a href="lab4.ipynb" title=> Практикум </a>
+
+`r  shiny::icon("pencil")` <a href="css_reg_pre_exam_practice.pdf" title=> Доп. задания для тренировки </a> 
+
 ## Занятие 8
  
 Тема: обсуждение применения регрессионного анализа в статьях 
