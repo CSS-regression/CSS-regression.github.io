@@ -65,3 +65,32 @@ output:
 
 `r  shiny::icon("readme")` <a href="PCA.pdf" title=> Метод главных компонент </a>
 
+## Занятие 8
+ 
+Тема: обсуждение применения регрессионного анализа в статьях 
+
+## Занятие 9
+ 
+Тема: меры качества регрессионных моделей, сравнение альтернативных спецификаций
+
+`r  shiny::icon("desktop")` <a href="lab5.ipynb" title=> Практикум </a>
+
+## Занятие 10
+ 
+Тема: модели бинарного выбора
+
+`r  shiny::icon("scroll")` <a href="BCM_lecture.pdf" title=> Презентация "Модели бинарного выбора" </a>
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar7.pdf" title=> Семинарский лист </a>
+
+`r  shiny::icon("desktop")` <a href="lab6.ipynb" title=> Практикум </a>
+
+`r  shiny::icon("desktop")` <a href="lab_logit.dta" title=> Данные </a>
+
+`r  shiny::icon("pencil")` <a href="reg_binarychoice_lab.pdf" title=> Задание к практикуму </a> 
+
+
+
+
+
+
