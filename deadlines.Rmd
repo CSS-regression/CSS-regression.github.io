@@ -8,7 +8,7 @@ title: "Важные даты"
 15 октября | Сдаваемое на проверку домашнее задание 1 | <a href="css_reg_hw1_submission.pdf" title=>ДЗ 1</a>
 23 октября | Сдаваемое на проверку домашнее задание 2 | <a href="css_reg_hw2_submission.pdf" title=>ДЗ 2</a>
 2 марта | Сдаваемое на проверку домашнее задание 3 | <a href="reg_hw3.pdf" title=>ДЗ 3</a>
-
+7 апреля | Проверочная работа 2 | <a href="css_reg_LO2.pdf" title=>Learning outcomes 2</a>
 
 
 
