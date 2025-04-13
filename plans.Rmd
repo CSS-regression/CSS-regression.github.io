@@ -133,6 +133,12 @@ output:
 
 `r  shiny::icon("scroll")` <a href="FE_RE.html" title=> Конспект</a>
  
+## Занятие 15
+
+Тема: спецификация моделей со смешанными эффектами
+
+`r  shiny::icon("scroll")` <a href="ME_models.html" title=> Конспект</a>
+ 
  
 
 
