@@ -7,7 +7,7 @@ output:
     toc_float: true
     theme: united
 ---
-# Регрессионный анализ социально-экономических процессов, 2024 -- 2025
+# Регрессионный анализ социально-экономических процессов, 2025 -- 2026
  
 ### Обозначения
  
@@ -21,125 +21,10 @@ output:
  
 ## Занятие 1
  
-Тема: О чем курс и каковы правила игры? Повторение: парная линейная регрессия
+Тема: О чем курс и каковы правила игры? Повторение: условное мат. ожидание; парная линейная регрессия
   
-`r  shiny::icon("scroll")` <a href="regression_intro_2024.pdf" title=>Презентация-введение</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_intro.pdf" title=>Презентация-введение</a> 
 
-`r  shiny::icon("scroll")` <a href="OLS_notes.pdf" title=>МНК-оценки: случай парной линейной регрессии</a> 
-
-`r  shiny::icon("scroll")` <a href="reg_seminar1_2024.pdf" title=>Семинар 1</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_hw1_2024.pdf" title=>Домашнее задание 1</a> 
-
-## Занятие 2
- 
-Тема: множественная линейная регрессия: спецификация, выведение формулы для получения оценок коэффициентов, допущения относительно ошибок
-  
-`r  shiny::icon("scroll")` <a href="reg_seminar2_2024.pdf" title=>Семинар 2</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_hw2_2024.pdf" title=>Домашнее задание 2</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_hw_solution.pdf" title=>Решение задач из ДЗ</a> 
-
-`r  shiny::icon("desktop")` <a href="reg_lab1.ipynb" title=> Практикум </a>
-
-`r  shiny::icon("desktop")` <a href="lab1.dta" title=> Данные </a>
-
-## Занятие 3
- 
-Тема: множественная линейная регрессия: спецификация
-
-`r  shiny::icon("scroll")` <a href="lecture_notes.pdf" title=>Выбор контрольных переменных</a> 
-
-`r  shiny::icon("scroll")` <a href="interactions_presentation.pdf" title=>Презентация: переменные взаимодействия</a> 
-
-`r  shiny::icon("scroll")` <a href="reg_seminar3.pdf" title=>Семинар 3</a> 
-
-`r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинар 3: решение</a> 
-
-`r  shiny::icon("desktop")` <a href="reg_lab2.ipynb" title=> Практикум </a>
-
-Домашнее задание: 
-
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/XhNnotShTyC8dw" title=> Brambor et al.</a>
- 
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
-
-## Занятие 4
- 
-Тема: множественная линейная регрессия: практикум; мультиколлинеарность 
-
-`r  shiny::icon("readme")` <a href="PCA.pdf" title=> Метод главных компонент </a>
-
-## Занятие 5
- 
-Тема: мультиколлинеарность (продолжение), гребневая регрессия
-
-`r  shiny::icon("desktop")` <a href="reg_lab3_1.ipynb" title=> Практикум (часть 1) </a>
-
-`r  shiny::icon("desktop")` <a href="reg_lab3_2.ipynb" title=> Практикум (часть 2) </a>
-
-`r  shiny::icon("desktop")` <a href="lab3_2.dta" title=> Данные </a>
-
-## Занятие 6
- 
-Тема: гетероскедастичность
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar5.pdf" title=> Семинарский лист </a>
-
-## Занятие 7
- 
-Тема: нетипичные наблюдения
-
-`r  shiny::icon("desktop")` <a href="lab4.ipynb" title=> Практикум </a>
-
-`r  shiny::icon("pencil")` <a href="css_reg_pre_exam_practice.pdf" title=> Доп. задания для тренировки </a> 
-
-## Занятие 8
- 
-Тема: обсуждение применения регрессионного анализа в статьях 
-
-## Занятие 9
- 
-Тема: меры качества регрессионных моделей, сравнение альтернативных спецификаций
-
-`r  shiny::icon("desktop")` <a href="lab5.ipynb" title=> Практикум </a>
-
-## Занятие 10
- 
-Тема: модели бинарного выбора
-
-`r  shiny::icon("scroll")` <a href="BCM_lecture.pdf" title=> Презентация "Модели бинарного выбора" </a>
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar7.pdf" title=> Семинарский лист </a>
-
-`r  shiny::icon("desktop")` <a href="lab6.ipynb" title=> Практикум </a>
-
-`r  shiny::icon("desktop")` <a href="lab_logit.dta" title=> Данные </a>
-
-`r  shiny::icon("pencil")` <a href="reg_binarychoice_lab.pdf" title=> Задание к практикуму </a> 
-
-## Занятие 11
-
-Тема: модели с порядковым откликом
-
-Домашнее задание к 24 февраля: 
- 
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10 (10.1 - 10.3)</a>  
- 
-## Занятия 12 - 14
-
-Тема: модели для анализа панельных данных
-
-`r  shiny::icon("scroll")` <a href="FE_RE.html" title=> Конспект</a>
- 
-## Занятие 15
-
-Тема: спецификация моделей со смешанными эффектами
-
-`r  shiny::icon("scroll")` <a href="ME_models.html" title=> Конспект</a>
- 
- 
-
+`r  shiny::icon("scroll")` <a href="css_reg_seminar1_2025.pdf" title=>Семинарский лист 1</a> 
 
 

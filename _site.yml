@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-  title: "Регрессионный анализ, ВСН, 2024-2025"
+  title: "Регрессионный анализ, ВСН, 2025-2026"
   left:
     - text: "Welcome"
       href: index.html
