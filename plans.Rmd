@@ -25,6 +25,8 @@ output:
   
 `r  shiny::icon("scroll")` <a href="css_reg_intro.pdf" title=>Презентация-введение</a> 
 
+`r  shiny::icon("scroll")` <a href="css_reg_notes_1.pdf" title=>Конспект</a> 
+
 `r  shiny::icon("scroll")` <a href="css_reg_seminar1_2025.pdf" title=>Семинарский лист 1</a> 
 
 Домашнее задание: 
