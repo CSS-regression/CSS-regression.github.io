@@ -41,4 +41,4 @@ output:
  
 Тема: множественная линейная регрессия: спецификация, оценивание параметров, условия Гаусса-Маркова
 
-`r  shiny::icon("scroll")` <a href="css_reg_notes_2.pdf" title=>Конспект</a> 
+`r  shiny::icon("scroll")` <a href="reg_notes_2.pdf" title=>Конспект</a> 
