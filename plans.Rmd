@@ -29,7 +29,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar1_2025.pdf" title=>Семинарский лист 1</a> 
 
-Домашнее задание: 
+<u>Домашнее задание</u>: 
  
 Просмотреть следующие статьи (особенно исследовательский дизайн, кроме того, как используется ATE): 
 
@@ -48,3 +48,5 @@ output:
 `r  shiny::icon("desktop")` <a href="css_reg_lab1.ipynb" title=>Практикум 1</a> 
 
 `r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
+
+<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
