@@ -50,3 +50,21 @@ output:
 `r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
 
 <u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_hw2_solution.pdf" title=>Решение задач</a> 
+
+## Занятие 3 
+
+Тема: спецификация множественной линейной модели,  модели с переменными взаимодействия 
+
+`r  shiny::icon("scroll")` <a href="interactions_solution.pdf" title=>Решение семинарского листка</a> 
+
+Литература по теме:
+ 
+`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/XhNnotShTyC8dw" title=> Brambor et al.</a>
+ 
+`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
+
+<u>Домашнее задание (сдаваемое обязательное)</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw1_submit.pdf" title=>Условие ДЗ1 (сдаваемое)</a> 
+
+ 
