@@ -57,6 +57,8 @@ output:
 
 Тема: спецификация множественной линейной модели,  модели с переменными взаимодействия 
 
+`r  shiny::icon("scroll")` <a href="css_reg_seminar3.pdf" title=>Семинарский лист 3</a> 
+
 `r  shiny::icon("scroll")` <a href="interactions_solution.pdf" title=>Решение семинарского листка</a> 
 
 Литература по теме:
