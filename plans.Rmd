@@ -57,6 +57,8 @@ output:
 
 Тема: спецификация множественной линейной модели,  модели с переменными взаимодействия 
 
+`r  shiny::icon("scroll")` <a href="interactions.pdf" title=>Презентация. Переменные взаимодействия</a> 
+
 `r  shiny::icon("scroll")` <a href="css_reg_seminar3.pdf" title=>Семинарский лист 3</a> 
 
 `r  shiny::icon("scroll")` <a href="interactions_solution.pdf" title=>Решение семинарского листка</a> 
@@ -68,5 +70,25 @@ output:
 `r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
 
 <u>Домашнее задание (сдаваемое обязательное)</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw1_submit.pdf" title=>Условие ДЗ1 (сдаваемое)</a> 
+
+## Занятие 4 
+
+Тема: модели с переменными взаимодействия, модель разность разностей  
+
+`r  shiny::icon("desktop")` <a href="reg_lab2_UPD.ipynb" title=>Практикум 2</a> 
+
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
+
+`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Презентация. DiD </a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar4.pdf" title=>Семинарский лист 4</a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab3_2025.ipynb" title=>Практикум 3</a> 
+
+`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>DiDdata.dta</a>
+
+
+
+
 
  
