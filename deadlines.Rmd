@@ -7,6 +7,7 @@ title: "Важные даты"
 06.10.2025 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="css_reg_test1_demo.pdf" title=>Демо-версия</a>
 09.10.2025 | ДЗ 1 (сдаваемое) | `r  shiny::icon("scroll")` <a href="css_reg_hw1_submit.pdf" title=>Условие ДЗ 1</a>
 24.10.2025 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="css_reg_hw2_submit.pdf" title=>Условие ДЗ 2</a>
+26.10.2025 | Бонусное ДЗ №2 | `r  shiny::icon("scroll")` <a href="css_reg_bonus2.pdf" title=>Условие бонусного ДЗ</a>
 
 
 
