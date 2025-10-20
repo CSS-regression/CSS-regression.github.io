@@ -87,8 +87,33 @@ output:
 
 `r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>DiDdata.dta</a>
 
+## Занятие 5
 
+Тема: проверочная работа
 
+`r  shiny::icon("scroll")` <a href="css_reg_test1_1_2025.pdf" title=>Вариант 1</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_test1_2_2025.pdf" title=>Вариант 2</a>
+
+## Занятие 6
+
+Тема: мультиколлинеарность; МГК 
+
+`r  shiny::icon("scroll")` <a href="css_reg_lecture_multicollinearity.pdf" title=>Презентация. Мультиколлинеарность. МГК</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar5.pdf" title=>Семинарский лист 5 </a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab4__2025.ipynb" title=>Практикум 4</a> 
+
+## Занятие 7
+
+Тема: гетероскедастичность, нетипичные наблюдения 
+
+`r  shiny::icon("scroll")` <a href="heteroskedasticity_lecture.pdf" title=>Презентация. Гетероскедастичность</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar6.pdf" title=>Семинарский лист 6 </a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab5__2025.ipynb" title=>Практикум 5</a> 
 
 
  
