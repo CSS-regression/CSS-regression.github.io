@@ -115,5 +115,43 @@ output:
 
 `r  shiny::icon("desktop")` <a href="reg_lab5__2025.ipynb" title=>Практикум 5</a> 
 
+## Занятие 8
+
+Тема: повторение, применение линейных регрессионных моделей в исследованиях
+
+`r  shiny::icon("scroll")` <a href="css_reg_research.pdf" title=>Презентация. Применение в исследованиях</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar7.pdf" title=>Семинарский лист 7 </a>
+
+## Занятие 9
+
+Тема: меры качества линейной регрессионной модели, кросс-валидация, сравнение альтернативных спецификаций
+
+`r  shiny::icon("scroll")` <a href="css_reg_class8.pdf" title=>Презентация. Меры качества</a> 
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab_6.ipynb" title=>Практикум 6</a> 
+
+`r  shiny::icon("desktop")` <a href="data_ridge.dta" title=>data_ridge.dta</a> 
+
+## Занятие 10
+
+Тема: модели с бинарным откликом
+
+`r  shiny::icon("scroll")` <a href="css_reg_class9.pdf" title=>Презентация. Модели с бинарным откликом</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar8.pdf" title=>Семинарский лист 8 </a>
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab_7.ipynb" title=>Практикум 7</a> 
+
+`r  shiny::icon("desktop")` <a href="lab_logit.dta" title=>lab_logit.dta</a> 
+
+## Занятие 11
+
+Тема: модели с порядковым откликом
+
+`r  shiny::icon("scroll")` <a href="css_reg_class10.pdf" title=>Презентация. Модели с порядковым откликом</a> 
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab8.ipynb" title=>Практикум 8</a> 
+
 
  
