@@ -153,5 +153,12 @@ output:
 
 `r  shiny::icon("desktop")` <a href="css_reg_lab8.ipynb" title=>Практикум 8</a> 
 
+## Занятие 12
+
+Тема: модели с фиксированными эффектами: введение
+
+`r  shiny::icon("scroll")` <a href="css_reg_class11.pdf" title=>Презентация. Модели с фиксированными эффектами </a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar9.pdf" title=>Семинарский лист 9 </a>
 
  
