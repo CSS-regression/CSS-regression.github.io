@@ -178,3 +178,13 @@ output:
 `r  shiny::icon("desktop")` <a href="reg_lab9.dta" title=>reg_lab9.dta</a> 
 
 `r  shiny::icon("readme")`  <a href="Determinants of FPI.pdf" title=>Пример. Determinants of FPI</a>
+
+## Занятие 14
+
+Тема: модели с фиксированными эффектами; автокорреляция, модели с лагированными переменными 
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab10.ipynb" title=>Практикум 10</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_class13.pdf" title=>Презентация. Модели с лагированными переменными </a> 
+
+
