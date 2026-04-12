@@ -201,5 +201,16 @@ output:
 
 `r  shiny::icon("desktop")` <a href="css_reg_lab11.ipynb" title=>Практикум 11</a> 
 
+## Занятие 16
+
+Тема: нестационарность данных
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab12.ipynb" title=>Практикум 12</a>
+
+`r  shiny::icon("desktop")` <a href="daily_reddit_score.csv" title=>daily_reddit_score.csv</a>
+
+`r  shiny::icon("desktop")` <a href="passengers.csv" title=>passengers.csv</a>
+
+`r  shiny::icon("desktop")` <a href="moscow_temp.csv" title=>moscow_temp.csv</a>
 
 
