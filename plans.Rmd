@@ -213,4 +213,13 @@ output:
 
 `r  shiny::icon("desktop")` <a href="moscow_temp.csv" title=>moscow_temp.csv</a>
 
+## Занятие 17
+
+Тема: каузальный вывод: модель потенциальных исходов, основные понятия и допущения 
+
+`r  shiny::icon("scroll")` <a href="css_reg_class17.pdf" title=>Презентация. Каузальный вывод: введение </a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar11.pdf" title=>Семинарский лист 11 </a> 
+
+
 
