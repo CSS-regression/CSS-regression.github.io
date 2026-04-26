@@ -221,5 +221,18 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar11.pdf" title=>Семинарский лист 11 </a> 
 
+## Занятие 18
+
+Тема: метод инструментальных переменных
+
+`r  shiny::icon("scroll")` <a href="css_reg_class18_IV.pdf" title=>Презентация. Метод инструментальных переменных</a> 
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab13.ipynb" title=>Практикум 13</a>
+
+`r  shiny::icon("desktop")` <a href="IVdata.csv" title=>IVdata.csv</a>
+
+
+
+
 
 
