@@ -14,6 +14,7 @@ title: "Важные даты"
 05.03.2026 | ДЗ 4 (сдаваемое) | `r  shiny::icon("scroll")` <a href="css_reg_hw4.pdf" title=>Условие ДЗ 4</a>
 23.04.2026 | ДЗ 5 (сдаваемое) | `r  shiny::icon("scroll")` <a href="css_reg_hw5.pdf" title=>Условие ДЗ 5</a>
 20.04.2026 | Проверочная работа 3 | `r  shiny::icon("scroll")` <a href="css_reg_test3_demo.pdf" title=>Демо-версия</a>; <a href="css_reg_LO3.pdf" title=>Learning outcomes 3 </a>
+20.05.2026 | ДЗ 6 (сдаваемое)| `r  shiny::icon("scroll")` <a href="css_reg_hw6.pdf" title=>Условие ДЗ 6</a>
 
 
 

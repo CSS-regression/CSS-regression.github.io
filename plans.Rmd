@@ -231,6 +231,12 @@ output:
 
 `r  shiny::icon("desktop")` <a href="IVdata.csv" title=>IVdata.csv</a>
 
+Литература: 
+
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/-Gaclr_7KE6dqA" title=>Angrist, Pischke (2015) Mastering Metrics</a>  
+
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/c_OHM2oDguwAKQ" title=>Morgan, Winship (2007) Counterfactuals and Causal Inference</a>  
+
 
 
 
