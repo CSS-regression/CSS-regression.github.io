@@ -225,7 +225,7 @@ output:
 
 Тема: метод инструментальных переменных
 
-`r  shiny::icon("scroll")` <a href="css_reg_class18.pdf" title=>Презентация. Метод инструментальных переменных</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_class_18.pdf" title=>Презентация. Метод инструментальных переменных</a> 
 
 `r  shiny::icon("desktop")` <a href="css_reg_lab13.ipynb" title=>Практикум 13</a>
 
@@ -245,6 +245,9 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar12.pdf" title=>Семинарский лист 12 </a> 
 
+`r  shiny::icon("desktop")` <a href="css_reg_lab_matching.ipynb" title=>Практикум 14</a>
+
+`r  shiny::icon("desktop")` <a href="matching_lab.csv" title=>matching_lab.csv</a>
 
 
 
