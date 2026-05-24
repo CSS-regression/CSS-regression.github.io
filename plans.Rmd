@@ -249,5 +249,12 @@ output:
 
 `r  shiny::icon("desktop")` <a href="matching_lab.csv" title=>matching_lab.csv</a>
 
+## Занятие 20
+
+Тема: метод разрывной регрессии
+
+`r  shiny::icon("scroll")` <a href="css_reg_RDD.pdf" title=>Презентация. Метод разрывной регрессии</a> 
+
+
 
 
