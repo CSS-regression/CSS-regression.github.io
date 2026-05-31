@@ -253,8 +253,9 @@ output:
 
 Тема: метод разрывной регрессии
 
-`r  shiny::icon("scroll")` <a href="css_reg_RDD.pdf" title=>Презентация. Метод разрывной регрессии</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_RDD_UPD.pdf" title=>Презентация. Метод разрывной регрессии</a> 
 
+`r  shiny::icon("desktop")` <a href="css_reg_lab15.ipynb" title=>Практикум 15</a>
 
 
 
