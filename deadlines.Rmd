@@ -17,7 +17,7 @@ title: "Важные даты"
 20.05.2026 | ДЗ 6 (сдаваемое)| `r  shiny::icon("scroll")` <a href="css_reg_hw6.pdf" title=>Условие ДЗ 6</a>
 03.06.2026 | Бонусное ДЗ №3| `r  shiny::icon("scroll")` <a href="css_reg_bonus3_2026.pdf" title=>Условие бонусного ДЗ</a>
 08.06.2026 | Проверочная работа 4| `r  shiny::icon("scroll")` <a href="css_reg_test4_demo.pdf" title=>Демо-версия</a>; <a href="css_reg_test4_LO.pdf" title=>Learning outcomes 4 </a>
-22.06.2026 | Экзаменационная работа | `r  shiny::icon("scroll")` <a href="css_reg_exam_demo_2026.pdf" title=>Демо-версия</a>
+22.06.2026 | Экзаменационная работа | `r  shiny::icon("scroll")` <a href="css_reg_exam_demo_2026.pdf" title=>Демо-версия</a>; <a href="css_reg_LO_exam2.pdf" title=>Learning outcomes</a>
 
 
 
