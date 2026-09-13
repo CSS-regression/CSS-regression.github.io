@@ -7,7 +7,7 @@ output:
     toc_float: true
     theme: united
 ---
-# Регрессионный анализ социально-экономических процессов, 2025 -- 2026
+# Регрессионный анализ социально-экономических процессов, 2026 -- 2027
  
 ### Обозначения
  
@@ -27,235 +27,24 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_notes_1.pdf" title=>Конспект</a> 
 
-`r  shiny::icon("scroll")` <a href="css_reg_seminar1_2025.pdf" title=>Семинарский лист 1</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_seminar1.pdf" title=>Семинарский лист 1</a> 
 
-<u>Домашнее задание</u>: 
- 
-Просмотреть следующие статьи (особенно исследовательский дизайн, кроме того, как используется ATE): 
+<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw1.pdf" title=>Задачи для тренировки</a> 
 
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ri6jodHqYpQxCw" title=>Mayer, 2011</a>; 
 
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/egohYd4tpMy_gg" title=>Pianzola et al., 2019</a>
- 
 ## Занятие 2
  
 Тема: множественная линейная регрессия: спецификация, оценивание параметров, условия Гаусса-Маркова
 
-`r  shiny::icon("scroll")` <a href="reg_notes_2_.pdf" title=>Конспект</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar2_2025.pdf" title=>Семинарский лист 2</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_seminar2.pdf" title=>Семинарский лист 2</a> 
 
 `r  shiny::icon("desktop")` <a href="css_reg_lab1.ipynb" title=>Практикум 1</a> 
 
 `r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
 
-<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_lecture_interactions.pdf" title=>Переменные взаимодействия</a> 
 
-`r  shiny::icon("scroll")` <a href="css_reg_hw2_solution.pdf" title=>Решение задач</a> 
 
-## Занятие 3 
-
-Тема: спецификация множественной линейной модели,  модели с переменными взаимодействия 
-
-`r  shiny::icon("scroll")` <a href="interactions.pdf" title=>Презентация. Переменные взаимодействия</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar3.pdf" title=>Семинарский лист 3</a> 
-
-`r  shiny::icon("scroll")` <a href="interactions_solution.pdf" title=>Решение семинарского листка</a> 
-
-Литература по теме:
- 
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/XhNnotShTyC8dw" title=> Brambor et al.</a>
- 
-`r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
-
-<u>Домашнее задание (сдаваемое обязательное)</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw1_submit.pdf" title=>Условие ДЗ1 (сдаваемое)</a> 
-
-## Занятие 4 
-
-Тема: модели с переменными взаимодействия, модель разность разностей  
-
-`r  shiny::icon("desktop")` <a href="reg_lab2_UPD.ipynb" title=>Практикум 2</a> 
-
-`r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
-
-`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Презентация. DiD </a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar4.pdf" title=>Семинарский лист 4</a>
-
-`r  shiny::icon("desktop")` <a href="reg_lab3_2025.ipynb" title=>Практикум 3</a> 
-
-`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>DiDdata.dta</a>
-
-## Занятие 5
-
-Тема: проверочная работа
-
-`r  shiny::icon("scroll")` <a href="css_reg_test1_1_2025.pdf" title=>Вариант 1</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_test1_2_2025.pdf" title=>Вариант 2</a>
-
-## Занятие 6
-
-Тема: мультиколлинеарность; МГК 
-
-`r  shiny::icon("scroll")` <a href="css_reg_lecture_multicollinearity.pdf" title=>Презентация. Мультиколлинеарность. МГК</a> 
-
-`r  shiny::icon("scroll")` <a href="reg_seminar5.pdf" title=>Семинарский лист 5 </a>
-
-`r  shiny::icon("desktop")` <a href="reg_lab4__2025.ipynb" title=>Практикум 4</a> 
-
-## Занятие 7
-
-Тема: гетероскедастичность, нетипичные наблюдения 
-
-`r  shiny::icon("scroll")` <a href="heteroskedasticity_lecture.pdf" title=>Презентация. Гетероскедастичность</a> 
-
-`r  shiny::icon("scroll")` <a href="reg_seminar6.pdf" title=>Семинарский лист 6 </a>
-
-`r  shiny::icon("desktop")` <a href="reg_lab5__2025.ipynb" title=>Практикум 5</a> 
-
-## Занятие 8
-
-Тема: повторение, применение линейных регрессионных моделей в исследованиях
-
-`r  shiny::icon("scroll")` <a href="css_reg_research.pdf" title=>Презентация. Применение в исследованиях</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar7.pdf" title=>Семинарский лист 7 </a>
-
-## Занятие 9
-
-Тема: меры качества линейной регрессионной модели, кросс-валидация, сравнение альтернативных спецификаций
-
-`r  shiny::icon("scroll")` <a href="css_reg_class8.pdf" title=>Презентация. Меры качества</a> 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab_6.ipynb" title=>Практикум 6</a> 
-
-`r  shiny::icon("desktop")` <a href="data_ridge.dta" title=>data_ridge.dta</a> 
-
-## Занятие 10
-
-Тема: модели с бинарным откликом
-
-`r  shiny::icon("scroll")` <a href="css_reg_BCM.pdf" title=>Презентация. Модели с бинарным откликом</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar8.pdf" title=>Семинарский лист 8 </a>
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab_7.ipynb" title=>Практикум 7</a> 
-
-`r  shiny::icon("desktop")` <a href="lab_logit.dta" title=>lab_logit.dta</a> 
-
-## Занятие 11
-
-Тема: модели с порядковым откликом
-
-`r  shiny::icon("scroll")` <a href="css_reg_class10.pdf" title=>Презентация. Модели с порядковым откликом</a> 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab8.ipynb" title=>Практикум 8</a> 
-
-## Занятие 12
-
-Тема: модели с фиксированными эффектами: введение
-
-`r  shiny::icon("scroll")` <a href="css_reg_class11.pdf" title=>Презентация. Модели с фиксированными эффектами </a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar9.pdf" title=>Семинарский лист 9 </a>
-
-Домашнее задание:
- 
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10 (10.1 - 10.3)</a>
-
-## Занятие 13
-
-Тема: модели с фиксированными эффектами: часть 2
-
-`r  shiny::icon("scroll")` <a href="css_reg_class12.pdf" title=>Презентация. Модели с фиксированными эффектами. Часть 2 </a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar10.pdf" title=>Семинарский лист 10 </a>
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab9.ipynb" title=>Практикум 9</a> 
-
-`r  shiny::icon("desktop")` <a href="reg_lab9.dta" title=>reg_lab9.dta</a> 
-
-`r  shiny::icon("readme")`  <a href="Determinants of FPI.pdf" title=>Пример. Determinants of FPI</a>
-
-Домашнее задание: 
- 
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/V6oQg2xZeysiDg" title=>Kropko, Kubinec, 2020</a>  
-
-## Занятие 14
-
-Тема: модели с фиксированными эффектами; автокорреляция, модели с лагированными переменными 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab10.ipynb" title=>Практикум 10</a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_class13.pdf" title=>Презентация. Модели с лагированными переменными </a> 
-
-Домашнее задание: 
-
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/znuKw6vQ9_7Dsw" title=>Beck, Katz, 2011</a>  
-
-## Занятие 15
-
-Тема: автокорреляция, модели с лагированными переменными 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab11.ipynb" title=>Практикум 11</a> 
-
-## Занятие 16
-
-Тема: нестационарность данных
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab12.ipynb" title=>Практикум 12</a>
-
-`r  shiny::icon("desktop")` <a href="daily_reddit_score.csv" title=>daily_reddit_score.csv</a>
-
-`r  shiny::icon("desktop")` <a href="passengers.csv" title=>passengers.csv</a>
-
-`r  shiny::icon("desktop")` <a href="moscow_temp.csv" title=>moscow_temp.csv</a>
-
-## Занятие 17
-
-Тема: каузальный вывод: модель потенциальных исходов, основные понятия и допущения 
-
-`r  shiny::icon("scroll")` <a href="css_reg_class17.pdf" title=>Презентация. Каузальный вывод: введение </a> 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar11.pdf" title=>Семинарский лист 11 </a> 
-
-## Занятие 18
-
-Тема: метод инструментальных переменных
-
-`r  shiny::icon("scroll")` <a href="css_reg_class_18.pdf" title=>Презентация. Метод инструментальных переменных</a> 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab13.ipynb" title=>Практикум 13</a>
-
-`r  shiny::icon("desktop")` <a href="IVdata.csv" title=>IVdata.csv</a>
-
-`r  shiny::icon("desktop")` <a href="IV_data2.Rda" title=>IV_data2.Rda</a>
-
-Литература: 
-
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/-Gaclr_7KE6dqA" title=>Angrist, Pischke (2015) Mastering Metrics</a>  
-
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/c_OHM2oDguwAKQ" title=>Morgan, Winship (2007) Counterfactuals and Causal Inference</a>  
-
-## Занятие 19
-
-Тема: мэтчинг 
-
-`r  shiny::icon("scroll")` <a href="css_reg_seminar12.pdf" title=>Семинарский лист 12 </a> 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab_matching.ipynb" title=>Практикум 14</a>
-
-`r  shiny::icon("desktop")` <a href="matching_lab.csv" title=>matching_lab.csv</a>
-
-## Занятие 20
-
-Тема: метод разрывной регрессии
-
-`r  shiny::icon("scroll")` <a href="css_reg_RDD_UPD.pdf" title=>Презентация. Метод разрывной регрессии</a> 
-
-`r  shiny::icon("desktop")` <a href="css_reg_lab15.ipynb" title=>Практикум 15</a>
 
 
 
