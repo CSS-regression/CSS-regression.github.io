@@ -44,6 +44,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_lecture_interactions.pdf" title=>Переменные взаимодействия</a> 
 
+<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
 
 
 
