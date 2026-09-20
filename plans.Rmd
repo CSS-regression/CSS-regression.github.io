@@ -42,9 +42,17 @@ output:
 
 `r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
 
+<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
+
+## Занятие 2
+ 
+Тема: множественная линейная регрессия: роль контрольных переменных, теорема Фриша-Во-Ловелла, модель с переменными взаимодействия
+
+`r  shiny::icon("scroll")` <a href="FWL.pdf" title=>Теорема Фриша-Во-Ловелла: доказательство</a> 
+
 `r  shiny::icon("scroll")` <a href="css_reg_lecture_interactions.pdf" title=>Переменные взаимодействия</a> 
 
-<u>Домашнее задание</u>: `r  shiny::icon("scroll")` <a href="css_reg_hw2.pdf" title=>Задачи для тренировки</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_seminar3.pdf" title=>Семинарский лист 3</a> 
 
 
 
