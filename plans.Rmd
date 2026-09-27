@@ -54,7 +54,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar3.pdf" title=>Семинарский лист 3</a> 
 
-`r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинарский лист 3. Решение</a> 
+`r  shiny::icon("scroll")` <a href="css_reg_seminar3_solution.pdf" title=>Семинарский лист 3. Решение</a> 
 
 Домашнее задание: 
  
