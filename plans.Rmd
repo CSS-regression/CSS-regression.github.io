@@ -62,5 +62,18 @@ output:
  
 Дополнительно: `r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
 
+## Занятие 4
+ 
+Тема: модели с переменными взаимодействия; метод разность разностей
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab2_.ipynb" title=>Практикум 2</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_DiD_lecture.pdf" title=>Метод разность разностей</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar4.pdf" title=>Семинарский лист 4</a> 
+
+
+
+
 
 
