@@ -1,7 +1,7 @@
 ---
 title: "Важные даты"
 ---
-05.10.2025 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="css_reg_test1_demo.pdf" title=>Демо-версия</a>
+05.10.2026 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="css_reg_test1_demo.pdf" title=>Демо-версия</a>
 
 
 
