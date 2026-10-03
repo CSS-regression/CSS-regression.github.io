@@ -1,7 +1,10 @@
 ---
 title: "Важные даты"
 ---
-05.10.2026 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="css_reg_test1_demo.pdf" title=>Демо-версия</a>
+05.10.2026 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="css_reg_test1_demo.pdf" title=>Демо-версия</a>; <a href="css_reg_LO1.pdf" title=>Learning Outcomes</a>
+
+11.10.2026 | ДЗ 1 (сдаваемое) | `r  shiny::icon("scroll")` <a href="css_reg_hw1_submission.pdf" title=>Условие ДЗ 1</a> 
+
 
 
 
