@@ -72,6 +72,18 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar4.pdf" title=>Семинарский лист 4</a> 
 
+## Занятие 5
+ 
+Тема: мультиколлинеарность
+
+`r  shiny::icon("desktop")` <a href="css_reg_lab3.ipynb" title=>Практикум 3</a> 
+
+`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>DiDdata.dta</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_multicollinearity_lecture.pdf" title=>Мультиколлинеарность. Презентация с лекции</a> 
+
+`r  shiny::icon("scroll")` <a href="css_reg_seminar5.pdf" title=>Семинарский лист 5</a>
+
 
 
 
