@@ -84,8 +84,13 @@ output:
 
 `r  shiny::icon("scroll")` <a href="css_reg_seminar5.pdf" title=>Семинарский лист 5</a>
 
+## Занятие 6
+ 
+Тема: мультиколлинеарность; гетероскедастичность; нетипичные наблюдения
 
+`r  shiny::icon("scroll")` <a href="css_reg_heteroskedasticity_lecture.pdf" title=>Гетероскедастичность и нетипичные наблюдения. Презентация с лекции</a> 
 
+`r  shiny::icon("desktop")` <a href="css_reg_lab4.ipynb" title=>Практикум 4</a> 
 
 
 
