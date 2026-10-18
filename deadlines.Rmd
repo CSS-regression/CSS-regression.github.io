@@ -8,8 +8,7 @@ title: "Важные даты"
 | 11.10.2026 | ДЗ №1 (сдаваемое) | `r shiny::icon("scroll")` <a href="css_reg_hw1_submission.pdf">Условие ДЗ 1</a> |
 | 23.10.2026 | ДЗ №2 (сдаваемое) | `r shiny::icon("scroll")` <a href="css_reg_hw2_submit.pdf">Условие ДЗ 2</a>; `r shiny::icon("desktop")` <a href="hwdata.dta">hwdata.dta</a> |
 | 25.10.2026 | Бонусное ДЗ №1 | `r shiny::icon("scroll")` <a href="css_reg_bonus1.pdf">Условие бонусного ДЗ 1</a> |
-
-
+| 26.10.2026 | Экзаменационная работа 1 | `r shiny::icon("scroll")` <a href="css_reg_exam_demo.pdf">Демо-версия</a> |
 
 
 
